@@ -1,3 +1,3 @@
-- Signal & Image Processing 
-- Data & ML       
-- Rust 🦀
+🔭 Signal & Image Processing  
+🤖 Data & ML  
+🦀 Rust  
